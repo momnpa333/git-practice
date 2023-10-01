@@ -1,5 +1,1 @@
-sad
-
-#KDW최고
-
-real reset?
+#다 지워
